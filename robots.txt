@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mika-bengal.vercel.app/sitemap.xml
